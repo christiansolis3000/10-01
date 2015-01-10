@@ -263,3 +263,4 @@ Using this I wrote a mixin for js-git that uses github *as* the backend store.
 
 Code at <https://github.com/creationix/js-github>. Usage in tedit can be seen at
 <https://github.com/creationix/tedit-app/blob/master/src/data/fs.js#L31>.
+test(1)
